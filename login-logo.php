@@ -41,6 +41,7 @@ function my_admin_scripts() {
 
 function show_and_save_login_logo() {
 $error = 0;	
+	//check image extensions
 	if ( isset($_POST['logo']) ):
 			$logoinfo = pathinfo($_POST['logo']);
 			if ( strtolower($logoinfo['extension']) == 'jpg' || strtolower($logoinfo['extension']) == 'gif' || strtolower($logoinfo['extension']) == 'png' ):
