@@ -2,7 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
 <title>Contacts Page TG</title>
+
 </head>
 
 <?php
@@ -10,5 +12,7 @@ echo 'Contacts - All Names';
 
 ?>
 <body>
+
+<?php echo 'All Names - ';?>
 </body>
 </html>
