@@ -13,6 +13,11 @@ echo 'Contacts - All Names';
 ?>
 <body>
 
-<?php echo 'All Names - ';?>
+<ul>
+	<li>A</li>
+	<li>B</li>
+	<li>C</li>
+	<li>D</li>            
+</ul>
 </body>
 </html>
