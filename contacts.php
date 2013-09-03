@@ -22,12 +22,8 @@ echo 'Contacts - All Names';
 	<li>C</li>
 	<li>D</li>          
     
-    <li>Fea1</li>  
-    <li>Fea2</li>  
-	<li>E</li>
-	<li>F</li>  
-    <li>G</li>          
-    
+    <li>Feature 1</li>
+        
 </ul>
 
 
