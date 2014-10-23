@@ -9,4 +9,4 @@ How to install and use this plugin details will be found -
 http://trinetsource.com/download-change-login-screen-plugin/
 
 
-Updated On 29th Sep-2013
+Updated On 23rd October-2014
